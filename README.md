@@ -21,7 +21,7 @@
 
 2. 安装脚本（以下任选一种方式）：
    <div align="center">
-     <a href="https://github.com/gujimy/BiliBili-JX/raw/main/bilijx.js">
+     <a href="https://raw.githubusercontent.com/gujimy/BiliBili-JX/main/bilijx.js">
        <img src="https://img.shields.io/badge/安装-哔哩视频解析脚本-FF6699.svg?style=for-the-badge&logo=tampermonkey&logoColor=white&labelColor=101F2E" alt="安装哔哩视频解析脚本">
      </a>
    </div>
