@@ -22,9 +22,14 @@
 2. 安装脚本（以下任选一种方式）：
    <div align="center">
      <a href="https://raw.githubusercontent.com/gujimy/BiliBili-JX/main/bilijx.js">
-       <img src="https://img.shields.io/badge/安装-哔哩视频解析脚本-FF6699.svg?style=for-the-badge&logo=tampermonkey&logoColor=white&labelColor=101F2E" alt="安装哔哩视频解析脚本">
+       <img src="https://img.shields.io/badge/安装-哔哩视频解析脚本-FF6699.svg?style=for-the-badge&logo=tampermonkey&logoColor=white&labelColor=101F2E" alt="点击安装哔哩视频解析脚本">
      </a>
    </div>
+   <div align="center">
+     <a href="https://raw.gitmirror.com/gujimy/BiliBili-JX/main/bilijx.js">
+       <img src="https://img.shields.io/badge/安装-哔哩视频解析脚本-FF6699.svg?style=for-the-badge&logo=tampermonkey&logoColor=white&labelColor=101F2E" alt="点击安装哔哩视频解析脚本（镜像加速）">
+     </a>
+   </div>   
    
    - **手动安装**：
      - 打开油猴插件管理页面
