@@ -15,21 +15,23 @@
 ## 安装方法
 
 1. 首先安装油猴插件(Tampermonkey)：
+   
    - [Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
    - [Edge](https://microsoftedge.microsoft.com/addons/detail/%E7%AF%A1%E6%94%B9%E7%8C%B4/iikmkjmpaadaobahmlepeloendndfphd?hl=zh-CN)
    - [Firefox版](https://addons.mozilla.org/firefox/addon/tampermonkey/)
 
 2. 安装脚本（以下任选一种方式）：
+   
    <div align="center">
-     <a href="https://raw.githubusercontent.com/gujimy/BiliBili-JX/main/bilijx.js">
-       <img src="https://img.shields.io/badge/安装-哔哩视频解析脚本-FF6699.svg?style=for-the-badge&logo=tampermonkey&logoColor=white&labelColor=101F2E" alt="点击安装哔哩视频解析脚本">
+     <a href="https://raw.githubusercontent.com/gujimy/BiliBili-JX/main/bilijx.user.js">
+       <img src="https://img.shields.io/badge/点击安装哔哩视频解析脚本-FF6699.svg?style=for-the-badge&logo=tampermonkey&logoColor=white&labelColor=101F2E" alt="点击安装哔哩视频解析脚本">
      </a>
    </div>
    <div align="center">
-     <a href="https://raw.gitmirror.com/gujimy/BiliBili-JX/main/bilijx.js">
-       <img src="https://img.shields.io/badge/安装-哔哩视频解析脚本-FF6699.svg?style=for-the-badge&logo=tampermonkey&logoColor=white&labelColor=101F2E" alt="点击安装哔哩视频解析脚本（镜像加速）">
+     <a href="https://raw.gitmirror.com/gujimy/BiliBili-JX/main/bilijx.user.js">
+       <img src="https://img.shields.io/badge/点击安装哔哩视频解析脚本（镜像加速）-FF6699.svg?style=for-the-badge&logo=tampermonkey&logoColor=white&labelColor=101F2E" alt="点击安装哔哩视频解析脚本（镜像加速）">
      </a>
-   </div>   
+   </div>
    
    - **手动安装**：
      - 打开油猴插件管理页面
@@ -94,3 +96,5 @@
 ## 免责声明
 
 本脚本仅用于学习研究，请勿用于非法用途。使用本脚本产生的一切后果由使用者自行承担。 
+
+
