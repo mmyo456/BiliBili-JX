@@ -20,7 +20,12 @@
    - [Firefox版](https://addons.mozilla.org/firefox/addon/tampermonkey/)
 
 2. 安装脚本（以下任选一种方式）：
-   - **直接安装**：点击 [安装脚本](https://github.com/gujimy/BiliBili-JX/raw/main/bilijx.js)
+   <div align="center">
+     <a href="https://github.com/gujimy/BiliBili-JX/raw/main/bilijx.js">
+       <img src="https://img.shields.io/badge/安装-哔哩视频解析脚本-FF6699.svg?style=for-the-badge&logo=tampermonkey&logoColor=white&labelColor=101F2E" alt="安装哔哩视频解析脚本">
+     </a>
+   </div>
+   
    - **手动安装**：
      - 打开油猴插件管理页面
      - 点击"添加新脚本"
