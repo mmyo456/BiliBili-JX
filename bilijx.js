@@ -17,8 +17,8 @@
 // @match        https://www.bilibili.com/history*
 // @match        https://live.bilibili.com/*
 // @match        https://www.bilibili.com/bangumi/*
-// @downloadURL  https://raw.githubusercontent.com/
-// @updateURL    https://raw.githubusercontent.com//BiliAnalysis.user.js
+// @downloadURL  https://raw.githubusercontent.com/gujimy/BiliBili-JX/main/bilijx.js
+// @updateURL    https://raw.githubusercontent.com/gujimy/BiliBili-JX/main/bilijx.js
 // @grant        GM_xmlhttpRequest
 // @grant        GM_addStyle
 // @require      https://lf26-cdn-tos.bytecdntp.com/cdn/expire-1-M/jquery/3.2.1/jquery.min.js
