@@ -22,6 +22,10 @@
 
 2. 安装脚本（以下任选一种方式）：
    
+   - **直接安装**：点击 [安装脚本](https://raw.githubusercontent.com/gujimy/BiliBili-JX/main/bilijx.user.js)
+   - **直接安装国内加速**：点击 [安装脚本](https://raw.gitmirror.com/gujimy/BiliBili-JX/main/bilijx.user.js)
+
+   
    <div align="center">
      <a href="https://raw.githubusercontent.com/gujimy/BiliBili-JX/main/bilijx.user.js">
        <img src="https://img.shields.io/badge/点击安装哔哩视频解析脚本-FF6699.svg?style=for-the-badge&logo=tampermonkey&logoColor=white&labelColor=101F2E" alt="点击安装哔哩视频解析脚本">
@@ -96,5 +100,3 @@
 ## 免责声明
 
 本脚本仅用于学习研究，请勿用于非法用途。使用本脚本产生的一切后果由使用者自行承担。 
-
-
