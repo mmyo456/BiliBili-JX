@@ -22,17 +22,17 @@
 
 2. 安装脚本（以下任选一种方式）：
    
-   - **直接安装**：点击 [安装脚本](https://raw.githubusercontent.com/gujimy/BiliBili-JX/main/bilijx.user.js)
-   - **直接安装国内加速**：点击 [安装脚本](https://raw.gitmirror.com/gujimy/BiliBili-JX/main/bilijx.user.js)
+   - **直接安装**：点击 [安装脚本](https://raw.githubusercontent.com/529565622/BiliBili-JX/main/bilijx.user.js)
+   - **直接安装国内加速**：点击 [安装脚本](https://raw.gitmirror.com/529565622/BiliBili-JX/main/bilijx.user.js)
 
    
    <div align="center">
-     <a href="https://raw.githubusercontent.com/gujimy/BiliBili-JX/main/bilijx.user.js">
+     <a href="https://raw.githubusercontent.com/529565622/BiliBili-JX/main/bilijx.user.js">
        <img src="https://img.shields.io/badge/点击安装哔哩视频解析脚本-FF6699.svg?style=for-the-badge&logo=tampermonkey&logoColor=white&labelColor=101F2E" alt="点击安装哔哩视频解析脚本">
      </a>
    </div>
    <div align="center">
-     <a href="https://raw.gitmirror.com/gujimy/BiliBili-JX/main/bilijx.user.js">
+     <a href="https://raw.gitmirror.com/529565622/BiliBili-JX/main/bilijx.user.js">
        <img src="https://img.shields.io/badge/点击安装哔哩视频解析脚本（镜像加速）-FF6699.svg?style=for-the-badge&logo=tampermonkey&logoColor=white&labelColor=101F2E" alt="点击安装哔哩视频解析脚本（镜像加速）">
      </a>
    </div>
@@ -40,7 +40,7 @@
    - **手动安装**：
      - 打开油猴插件管理页面
      - 点击"添加新脚本"
-     - 将[bilijx.js](https://github.com/gujimy/BiliBili-JX/blob/main/bilijx.js)中的代码复制粘贴到编辑器中
+     - 将[bilijx.js](https://github.com/529565622/BiliBili-JX/blob/main/bilijx.js)中的代码复制粘贴到编辑器中
      - 点击"保存"即可
 
 ## 使用方法
