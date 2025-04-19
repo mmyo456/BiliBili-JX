@@ -1,5 +1,7 @@
 # B站视频和直播解析脚本
-(本分支为自用取消本地解析，使用服务器链接拼接链接版本)
+> [!IMPORTANT]
+> 本分支为自用取消本地解析，使用服务器链接拼接链接版本
+
 ## 简介
 
 这是一个功能强大的B站视频和直播解析工具，可以一键获取哔哩哔哩(Bilibili)视频和直播的直链地址。支持视频页面、直播页面以及首页、搜索结果页等多种页面场景下的解析功能。
@@ -27,12 +29,12 @@
 
    
    <div align="center">
-     <a href="https://raw.githubusercontent.com/529565622/BiliBili-JX/main/bilijx.user.js">
+     <a href="https://raw.githubusercontent.com/mmyo456/BiliBili-JX/main/bilijx.user.js">
        <img src="https://img.shields.io/badge/点击安装哔哩视频解析脚本-FF6699.svg?style=for-the-badge&logo=tampermonkey&logoColor=white&labelColor=101F2E" alt="点击安装哔哩视频解析脚本">
      </a>
    </div>
    <div align="center">
-     <a href="https://raw.gitmirror.com/529565622/BiliBili-JX/main/bilijx.user.js">
+     <a href="https://raw.gitmirror.com/mmyo456/BiliBili-JX/main/bilijx.user.js">
        <img src="https://img.shields.io/badge/点击安装哔哩视频解析脚本（镜像加速）-FF6699.svg?style=for-the-badge&logo=tampermonkey&logoColor=white&labelColor=101F2E" alt="点击安装哔哩视频解析脚本（镜像加速）">
      </a>
    </div>

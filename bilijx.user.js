@@ -17,8 +17,8 @@
 // @match        https://www.bilibili.com/history*
 // @match        https://live.bilibili.com/*
 // @match        https://www.bilibili.com/bangumi/*
-// @downloadURL  https://raw.githubusercontent.com/529565622/BiliBili-JX/main/bilijx.user.js
-// @updateURL    https://raw.githubusercontent.com/529565622/BiliBili-JX/main/bilijx.user.js
+// @downloadURL  https://raw.githubusercontent.com/mmyo456/BiliBili-JX/main/bilijx.user.js
+// @updateURL    https://raw.githubusercontent.com/mmyo456/BiliBili-JX/main/bilijx.user.js
 // @grant        GM_xmlhttpRequest
 // @grant        GM_addStyle
 // @require      https://lf26-cdn-tos.bytecdntp.com/cdn/expire-1-M/jquery/3.2.1/jquery.min.js
@@ -205,7 +205,7 @@
     // 定义一些常量
     const NOTIFICATION_TIMEOUT = 5000; // 5秒 (原来是10秒，已缩减一半)
     const ERROR_TIMEOUT = 5000; // 5秒
-    const NOTIFICATION_IMAGE = 'https://wp-cdn.4ce.cn/v2/8OzfSAD.gif';
+    const NOTIFICATION_IMAGE = 'https://i.ouo.chat/api/img/DLC3.gif';
     const TYPE_VIDEO = 'video';
     const TYPE_LIVE = 'live';
     const DEBOUNCE_DELAY = 300; // 防抖延迟时间
@@ -739,7 +739,7 @@
     // 通用视频解析函数
     function getVideoUrl(bvid, p = 1, customCallback = null) {
         if (!bvid) return;
-        const videoUrl = "https://biliplayer.91vrchat.com/player/?url=https://www.bilibili.com/video/"+bvid+"?p="+p;
+        const videoUrl = "https://bil.ouo.chat/player/?url=https://www.bilibili.com/video/"+bvid+"?p="+p;
         navigator.clipboard.writeText(videoUrl).catch(e => console.error(e));
         showNotification('视频解析成功', '链接已复制到剪贴板', false, TYPE_VIDEO);
     }
@@ -808,7 +808,7 @@
     // 直播解析函数 - 使用新的API
     function analysisLive(roomId) {
         if (!roomId) return;
-        const streamUrl = "https://biliplayer.91vrchat.com/player/?url=https://live.bilibili.com/"+roomId;
+        const streamUrl = "https://bil.ouo.chat/player/?url=https://live.bilibili.com/"+roomId;
         navigator.clipboard.writeText(streamUrl).catch(e => console.error(e));
         // 显示成功提示
         showNotification('直播解析成功', '链接已复制到剪贴板', false, TYPE_LIVE);
