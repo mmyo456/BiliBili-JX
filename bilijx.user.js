@@ -21,7 +21,7 @@
 // @updateURL    https://raw.githubusercontent.com/mmyo456/BiliBili-JX/main/bilijx.user.js
 // @grant        GM_xmlhttpRequest
 // @grant        GM_addStyle
-// @require      https://lf26-cdn-tos.bytecdntp.com/cdn/expire-1-M/jquery/3.2.1/jquery.min.js
+// @require      https://i.ouo.chat/api/jquery-3.7.1.slim.min.js
 // ==/UserScript==
 
 (function () {
